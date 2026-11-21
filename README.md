@@ -1,11 +1,8 @@
 # Analysis and Synthesis of Radio Systems – Project
 
-Design and analysis of a **multi-channel superheterodyne receiver** for the course
-*Analysis and Synthesis of Radio Systems* (ECE AUTh, 9th semester).
+This repository contains the design and analysis of a **multi-channel superheterodyne receiver** for the **Analysis and Synthesis of Radio Systems** course at ECE AUTH during the 2025-2026 academic year.
 
-**Author:** Georgios Lavdakis (Student ID: 10672)
-
-> Note: the report itself is written in Greek.
+**Author:** Georgios Lavdakis
 
 ## Overview
 
