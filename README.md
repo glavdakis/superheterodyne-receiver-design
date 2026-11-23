@@ -46,7 +46,7 @@ Antenna → LNA → BPF1 → Mixer 1 → SAW (IF = 280 MHz) → Amp2 → Mixer 2
 ├── docs/
 │   ├── report.pdf                         # Project report
 │   ├── Components - Links - everythingRF.pdf  # Component search links (course material)
-│   └── ΑΣΡΣ - Εκφώνηση Εργασίας.pdf       # Assignment description (in Greek)
+│   └── ΑΣΡΣ - Εκφώνηση Εργασίας.pdf       # Assignment description
 ├── datasheets/                            # Datasheets of the selected components
 │   └── All_Datasheets.pdf                 # All datasheets merged in one file
 └── README.md
